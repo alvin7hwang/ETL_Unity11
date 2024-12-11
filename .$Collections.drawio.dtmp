@@ -965,6 +965,9 @@
         <mxCell id="FV_wPUN5_jcwhxo8XgVI-62" value="HashSet / HashTable 의 탐색 시간복잡도&lt;div&gt;O(N). 물론 평균적으로는 O(1) 에 가깝다.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;최악의 경우 :&amp;nbsp;&lt;/div&gt;&lt;div&gt;삽입한 모든 아이템이 충돌을 했고,&amp;nbsp;&lt;/div&gt;&lt;div&gt;내가 찾으려는 키값도 충돌이 일어났는데&amp;nbsp;&lt;/div&gt;&lt;div&gt;해당 키값은 자료구조에 존재하지 않을때&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="3758" y="156.5" width="288" height="167" as="geometry" />
         </mxCell>
+        <mxCell id="FV_wPUN5_jcwhxo8XgVI-63" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3287" y="222" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
